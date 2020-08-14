@@ -1,0 +1,8 @@
+open weather map api account details
+user Name: a1barif2h
+email: a1barif2h@gmail.com
+pass: 42092990092@
+
+api key : e8f6a70d9c7ff43a990077c3ba434eea
+
+myKey: 2633836061d1b7084bdf73f001a8efbb
